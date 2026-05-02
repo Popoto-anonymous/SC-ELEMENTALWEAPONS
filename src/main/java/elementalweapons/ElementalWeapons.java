@@ -150,7 +150,7 @@ public class ElementalWeapons {
   }
 
 @EventListener
-public static void gatherEquipmentTypes(final GatherEquipmentTypesEvent event) {
+public void gatherEquipmentTypes(final GatherEquipmentTypesEvent event) {
   event.add(Equipments.DAMP_BLADE.get(), EquipmentTypes.LONGSWORD);
   event.add(Equipments.WATER_BROADSWORD.get(), EquipmentTypes.LONGSWORD);
   event.add(Equipments.OCEAN_GREATSWORD.get(), EquipmentTypes.LONGSWORD);
