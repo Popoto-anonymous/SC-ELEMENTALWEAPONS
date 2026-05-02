@@ -1,0 +1,317 @@
+# Global config
+elementalweapons.name=Elemental Weapons
+
+# Equipment
+
+// DART
+elementalweapons.equipment.damp_blade.name=Damp Blade
+elementalweapons.equipment.damp_blade.description=This just doesn't\nmake sense.
+
+elementalweapons.equipment.water_broadsword.name=Water Broadsword
+elementalweapons.equipment.water_broadsword.description=Just why?
+
+elementalweapons.equipment.ocean_greatsword.name=Ocean Greatsword
+elementalweapons.equipment.ocean_greatsword.description=Who said Water on a\nFire character was\na good idea?
+
+elementalweapons.equipment.blazing_broadsword.name=Blazing Broadsword
+elementalweapons.equipment.blazing_broadsword.description=When heat isn't enough.
+
+elementalweapons.equipment.inferno_greatsword.name=Inferno Greatsword
+elementalweapons.equipment.inferno_greatsword.description=Hotter than a raging\nwildfire.
+
+elementalweapons.equipment.gust_longsword.name=Gust Longsword
+elementalweapons.equipment.gust_longsword.description= Whooosh!!
+
+elementalweapons.equipment.hurricane_claymore.name=Hurricane Claymore
+elementalweapons.equipment.hurricane_claymore.description=Stronger whoosh!!
+
+elementalweapons.equipment.gravel_longsword.name=Gravel Longsword
+elementalweapons.equipment.gravel_longsword.description=Small stones.
+
+elementalweapons.equipment.stone_claymore.name=Stone Claymore
+elementalweapons.equipment.stone_claymore.description=Big stone.
+
+elementalweapons.equipment.glowing_blade.name=Glowing Blade
+elementalweapons.equipment.glowing_blade.description=Just enough light.
+
+elementalweapons.equipment.blinding_zweihander.name=Blinding Zweihander
+elementalweapons.equipment.blinding_zweihander.description=Too much light.
+
+elementalweapons.equipment.black_blade.name=Black Blade
+elementalweapons.equipment.black_blade.description=Just a little dark.
+
+elementalweapons.equipment.night_zweihander.name=Night Zweihander
+elementalweapons.equipment.night_zweihander.description=Dark as night.
+
+elementalweapons.equipment.shocking_broadblade.name=Shocking Broadblade
+elementalweapons.equipment.shocking_broadblade.description=Little zaps.
+
+elementalweapons.equipment.lightning_greatblade.name=Lightning Greatblade
+elementalweapons.equipment.lightning_greatblade.description=Big zaps.
+
+// LAVITZ-ALBERT
+elementalweapons.equipment.vortex_glaive.name=Vortex Glaive
+elementalweapons.equipment.vortex_glaive.description=Spin and spin and spin.
+
+elementalweapons.equipment.stone_lance.name=Stone Lance
+elementalweapons.equipment.stone_lance.description=Lance made of a\nunique stone.
+
+elementalweapons.equipment.canyon_lance.name=Canyon Lance
+elementalweapons.equipment.canyon_lance.description=No, it's not that big.
+
+elementalweapons.equipment.burning_partisan.name=Burning Partisan
+elementalweapons.equipment.burning_partisan.description=Full of passion.
+
+elementalweapons.equipment.flaming_partisan.name=Flaming Partisan
+elementalweapons.equipment.flaming_partisan.description=Passion overflow.
+
+elementalweapons.equipment.liquid_spear.name=Liquid Spear
+elementalweapons.equipment.liquid_spear.description=Crying is ok.
+
+elementalweapons.equipment.whirlpool_spear.name=Whirlpool Spear
+elementalweapons.equipment.whirlpool_spear.description=Not in the pool.
+
+elementalweapons.equipment.bright_halberd.name=Bright Halberd
+elementalweapons.equipment.bright_halberd.description=Need sunglasses.
+
+elementalweapons.equipment.dawn_halberd.name=Dawn Halberd
+elementalweapons.equipment.dawn_halberd.description=The morning Sun.
+
+elementalweapons.equipment.dark_halberd.name=Dark Halberd
+elementalweapons.equipment.dark_halberd.description=Need a lamp.
+
+elementalweapons.equipment.dusk_halberd.name=Dusk Halberd
+elementalweapons.equipment.dusk_halberd.description=Good-bye Sun.
+
+elementalweapons.equipment.electric_swordlance.name=Electric Swordlance
+elementalweapons.equipment.electric_swordlance.description=It'll wake you up.
+
+elementalweapons.equipment.current_swordlance.name=Current Swordlance
+elementalweapons.equipment.current_swordlance.description=Definitely awake.
+
+// SHANA-MIRANDA
+elementalweapons.equipment.shining_arrow.name=Shining Arrow
+elementalweapons.equipment.shining_arrow.description=When sparkles aren't\nenough shine brighter.
+
+elementalweapons.equipment.heaven_bow.name=Heaven Bow
+elementalweapons.equipment.heaven_bow.description=Go towards the light.
+
+elementalweapons.equipment.blinding_arrow.name=Blinding Arrow
+elementalweapons.equipment.blinding_arrow.description=Made for poking out\neyes.
+
+elementalweapons.equipment.hell_bow.name=Hell Bow
+elementalweapons.equipment.hell_bow.description=Drag your enemies\nto Hell.
+
+elementalweapons.equipment.smoldering_arrow.name=Smoldering Arrow
+elementalweapons.equipment.smoldering_arrow.description=Still hot.
+
+elementalweapons.equipment.combustion_bow.name=Combustion Bow
+elementalweapons.equipment.combustion_bow.description=Now your clothes are\non fire.
+
+elementalweapons.equipment.splashing_arrow.name=Splashing Arrow
+elementalweapons.equipment.splashing_arrow.description=Got you wet.
+
+elementalweapons.equipment.drowning_bow.name=Drowning Bow
+elementalweapons.equipment.drowning_bow.description=Too wet.
+
+elementalweapons.equipment.air_arrow.name=Air Arrow
+elementalweapons.equipment.air_arrow.description=What was that?
+
+elementalweapons.equipment.wind_bow.name=Wind Bow
+elementalweapons.equipment.wind_bow.description=Must have been the\nwind.
+
+elementalweapons.equipment.rock_arrow.name=Rock Arrow
+elementalweapons.equipment.rock_arrow.description=Who threw that?
+
+elementalweapons.equipment.boulder_bow.name=Boulder Bow
+elementalweapons.equipment.boulder_bow.description=How'd you throw that?
+
+elementalweapons.equipment.stinging_arrow.name=Stinging Arrow
+elementalweapons.equipment.stinging_arrow.description=Ouch.
+
+elementalweapons.equipment.tingling_bow.name=Tingling Bow
+elementalweapons.equipment.tingling_bow.description=Think im numb.
+
+// ROSE
+elementalweapons.equipment.darkness_shearer.name=Darkness Shearer
+elementalweapons.equipment.darkness_shearer.description=For when the darkness\nis too dark.
+
+elementalweapons.equipment.shining_light.name=Shining Light
+elementalweapons.equipment.shining_light.description=Light that can banish\neven the darkest nights.
+
+elementalweapons.equipment.light_bringer.name=Light Bringer
+elementalweapons.equipment.light_bringer.description=Light so bright it casts\naway all Darkness.
+
+elementalweapons.equipment.embers_glow.name=Embers Glow
+elementalweapons.equipment.embers_glow.description=Hotter than you think.
+
+elementalweapons.equipment.fires_roar.name=Fires Roar
+elementalweapons.equipment.fires_roar.description=Raging flames.
+
+elementalweapons.equipment.waters_edge.name=Waters Edge
+elementalweapons.equipment.waters_edge.description=Tranquil sounds.
+
+elementalweapons.equipment.rivers_flow.name=Rivers Flow
+elementalweapons.equipment.rivers_flow.description=Stronger than it looks.
+
+elementalweapons.equipment.winds_lament.name=Winds Lament
+elementalweapons.equipment.winds_lament.description=Quiet wailing.
+
+elementalweapons.equipment.airs_requiem.name=Airs Requiem
+elementalweapons.equipment.airs_requiem.description=Grant me strength.
+
+elementalweapons.equipment.earths_etude.name=Earths Etude
+elementalweapons.equipment.earths_etude.description=Solitary training.
+
+elementalweapons.equipment.mountains_dirge.name=Mountains Dirge
+elementalweapons.equipment.mountains_dirge.description=For when even the\nplanet mourns.
+
+elementalweapons.equipment.thunder_crack.name=Thunder Crack
+elementalweapons.equipment.thunder_crack.description=Very loud.
+
+elementalweapons.equipment.lightning_reprise.name=Lightning Reprise
+elementalweapons.equipment.lightning_reprise.description=It can strike twice.
+
+// HASCHEL
+elementalweapons.equipment.storm_fist.name=Storm Fist
+elementalweapons.equipment.storm_fist.description=Fast as lightning,\nloud as thunder.
+
+elementalweapons.equipment.static_knuckles.name=Static Knuckles
+elementalweapons.equipment.static_knuckles.description=They WILL shock you.
+
+elementalweapons.equipment.flaming_fist.name=Flaming Fist
+elementalweapons.equipment.flaming_fist.description=Ouch! It burns.
+
+elementalweapons.equipment.ifrit_fist.name=Ifrit Fist
+elementalweapons.equipment.ifrit_fist.description=Burns like Hellfire.
+
+elementalweapons.equipment.rapids_fist.name=Rapids Fist
+elementalweapons.equipment.rapids_fist.description=At least it isn't\nwhite water.
+
+elementalweapons.equipment.leviathan_fist.name=Leviathan Fist
+elementalweapons.equipment.leviathan_fist.description=Like getting hit by a\nTidal Wave.
+
+elementalweapons.equipment.fleeting_fist.name=Fleeting Fist
+elementalweapons.equipment.fleeting_fist.description=Faster than the wind.
+
+elementalweapons.equipment.garuda_fist.name=Garuda Fist
+elementalweapons.equipment.garuda_fist.description=Like getting rolled\nover in a Cyclone.
+
+elementalweapons.equipment.sturdy_fist.name=Sturdy Fist
+elementalweapons.equipment.sturdy_fist.description=Like solid rock.
+
+elementalweapons.equipment.titan_fist.name=Titan Fist
+elementalweapons.equipment.titan_fist.description=Strikes so heavy they\nyou feel the Anger\nof the Land.
+
+elementalweapons.equipment.flashy_fist.name=Flashy Fist
+elementalweapons.equipment.flashy_fist.description=Are you amazed?
+
+elementalweapons.equipment.phoenix_fist.name=Phoenix Fist
+elementalweapons.equipment.phoenix_fist.description=Holy Flames of Rebirth.
+
+elementalweapons.equipment.hidden_fist.name=Hidden Fist
+elementalweapons.equipment.hidden_fist.description=Where'd they go?
+
+elementalweapons.equipment.diabolos_fist.name=Diabolos Fist
+elementalweapons.equipment.diabolos_fist.description=I'm your Dark\nMessenger.
+
+// MERU
+elementalweapons.equipment.hot_hammer.name=Hot Hammer
+elementalweapons.equipment.hot_hammer.description=Fire in the Water...\nWHY??
+
+elementalweapons.equipment.flare_crozier.name=Flare Crozier
+elementalweapons.equipment.flare_crozier.description=Excels at making steam.
+
+elementalweapons.equipment.cold_hammer.name=Cold Hammer
+elementalweapons.equipment.cold_hammer.description=Brrrrrr.
+
+elementalweapons.equipment.torrential_blow.name=Torrential Blow
+elementalweapons.equipment.torrential_blow.description=Like waves crashing.
+
+elementalweapons.equipment.gusty_mallet.name=Gusty Mallet
+elementalweapons.equipment.gusty_mallet.description=Enjoy the breeze.
+
+elementalweapons.equipment.sylph_hammer.name=Sylph Hammer
+elementalweapons.equipment.sylph_hammer.description=Lighter than the air\nitself.
+
+elementalweapons.equipment.stone_mallet.name=Stone Mallet
+elementalweapons.equipment.stone_mallet.description=Bonk!
+
+elementalweapons.equipment.gnome_hammer.name=Gnome Hammer
+elementalweapons.equipment.gnome_hammer.description=Bonk bonk!!
+
+elementalweapons.equipment.holy_mace.name=Holy Mace
+elementalweapons.equipment.holy_mace.description=Be at peace.
+
+elementalweapons.equipment.paladins_mace.name=Paladins Mace
+elementalweapons.equipment.paladins_mace.description=May your soul be\nat peace.
+
+elementalweapons.equipment.unholy_mace.name=Unholy Mace
+elementalweapons.equipment.unholy_mace.description=No rest for the wicked.
+
+elementalweapons.equipment.corrupted_mace.name=Corrupted Mace
+elementalweapons.equipment.corrupted_mace.description=Your soul is mine.
+
+elementalweapons.equipment.zap_hammer.name=Zap Hammer
+elementalweapons.equipment.zap_hammer.description=Zap zap :3
+
+elementalweapons.equipment.lightning_strike.name=Lightning Strike
+elementalweapons.equipment.lightning_strike.description=Zappy zappy :3
+
+// KONGOL
+elementalweapons.equipment.axe_of_gusts.name=Axe of Gusts
+elementalweapons.equipment.axe_of_gusts.description=Just swinging this axe\ncan cause wind gusts.
+
+elementalweapons.equipment.tornado_axe.name=Tornado Axe
+elementalweapons.equipment.tornado_axe.description=Stone axe infused with\nthe power of violent\nwinds.
+
+elementalweapons.equipment.pebble_axe.name=Pebble Axe
+elementalweapons.equipment.pebble_axe.description=Small rock.
+
+elementalweapons.equipment.crag_axe.name=Crag Axe
+elementalweapons.equipment.crag_axe.description=Axe made of crags.
+
+elementalweapons.equipment.molten_greataxe.name=Molten Greataxe
+elementalweapons.equipment.molten_greataxe.description=Melts on your face.
+
+elementalweapons.equipment.volcano_greataxe.name=Volcano Greataxe
+elementalweapons.equipment.volcano_greataxe.description=Eruptive power!
+
+elementalweapons.equipment.lake_greataxe.name=Lake Greataxe
+elementalweapons.equipment.lake_greataxe.description=Just as vast.
+
+elementalweapons.equipment.greataxe_of_the_sea.name=Greataxe of the Sea
+elementalweapons.equipment.greataxe_of_the_sea.description=Feel the weight of\nthe sea.
+
+elementalweapons.equipment.glare_broadaxe.name=Glare Broadaxe
+elementalweapons.equipment.glare_broadaxe.description=My eyes!
+
+elementalweapons.equipment.shining_broadaxe.name=Shining Broadaxe
+elementalweapons.equipment.shining_broadaxe.description=A symbol of hope.
+
+elementalweapons.equipment.graven_broadaxe.name=Graven Broadaxe
+elementalweapons.equipment.graven_broadaxe.description=Previous owner unknown.
+
+elementalweapons.equipment.broadaxe_of_the_dead.name=Broadaxe of the Dead
+elementalweapons.equipment.broadaxe_of_the_dead.description=For when there's\ntoo many living.
+
+elementalweapons.equipment.thunderclap.name=Thunderclap
+elementalweapons.equipment.thunderclap.description=THUNDER!!
+
+elementalweapons.equipment.thunderous_roar.name=Thunderous Roar
+elementalweapons.equipment.thunderous_roar.description=Louder than a dragon.
+
+// SPECIAL RINGS
+
+// THIEF CAPE
+
+elementalweapons.equipment.thief_cape.name=Thief Cape
+elementalweapons.equipment.thief_cape.description=Makes you swift. Among\nother things.
+
+// THIEF SCARF
+
+elementalweapons.equipment.thief_scarf.name=Thief Scarf
+elementalweapons.equipment.thief_scarf.description=Makes you fast. Among\nother things.
+
+elementalweapons.equipment.wingly_mantle.name=Wingly Mantle
+elementalweapons.equipment.wingly_mantle.description=Feels like you can fly.

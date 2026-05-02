@@ -1,0 +1,21 @@
+ELEMENTAL WEAPONS
+
+Adds elemental weapons for each character
+
+Light and Dark are buyable in Fletz for 210 gold, they resell for the same
+
+Wind and Earth are buyable in Donau for 210 gold, they resell for the same
+
+Fire, Water, and Thunder buyable in Fueno for 250 gold, they resell for the same
+
+Ulara sells the full suite of weapons with more late-game attack values, made for getting you to the moon. for 400G each, and they resell for the same 
+
+Thief Cape is purchasable in Lohan, Thief Scarf is purchasable in Fletz accessory shop, Wingly Mantle in the Wingly Forest
+
+THIEF CAPE, 2 in most stats, 5 speed, 5 to hit rates, prevents Poison, Stun, Arm Block, 1% HP and 10 MP regen (500G)
+
+THIEF SCARF, 5 in most stats, 10 speed, 10 to hit rates, prevents Poison, Stun, Arm Block, 4% HP and 20 MP regen (1000G)
+
+WINGLY MANTLE, 10 in most stats, 15 speed, 15 to hit rates, prevents Poison, Stun, Arm Block, 8% HP and 40 MP regen (1500G)
+
+All weapons are balanced around base game weapons. Except Roses Ulara weapons, they are stronger than the Gladius because you get a free Gladius in the Desert if you know where to look.
